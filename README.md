@@ -8,7 +8,13 @@
 ## Запуск (h2)
 ```bash
 bash ./script.sh
-```
+```   
+   
+Script ```username.sh``` prints my username   
+
+```bash
+echo "Khussan Aminzhanov"
+```   
 ## Портирование (h2)
 Данный проект можно портировать на другие языки программирования. 
 
@@ -40,5 +46,3 @@ int main() {
 | LinkedIn  | [Ссылка](https://github.com/KhussanAminzhanov/jusan-git) | 3 часа    |  
 | WhatsApp  | [Ссылка](https://github.com/KhussanAminzhanov/jusan-git) | 30 минут  |  
 | Telegram  | [Ссылка](https://github.com/KhussanAminzhanov/jusan-git) | 5 минут   |   
-   
-Script username.sh prints my username.
