@@ -1,5 +1,5 @@
 # stepik-id-printer (h1)
-This repository contains a script for getting an ID of a user from Stepik.
+Это проект для вывода моего персонального идентификатора на *образовательной платформе* ```stepik.org```
 ## Возможности (h2)
 Данный проект имеет следующий функционал.
 * Выводит в **stdout** уникальный идентификатор.
