@@ -10,7 +10,8 @@ This repository contains a script for getting an ID of a user from Stepik.
 bash ./script.sh
 ```
 ## Портирование (h2)
-Данный проект можно портировать на другие языки программирования.
+Данный проект можно портировать на другие языки программирования. 
+
 На Java
 ```Java
 class Main {
@@ -32,9 +33,10 @@ int main() {
 ```
 >:bulb:Попробуйте реализовать на Python, Go и Javascript.
 ## Контакты разработчика (h2)
-Ниже найдите список ссылок для связки с автором.
-|Платформа|Ссылка|Отвечу за|
-|Почта|[Ссылка](https://github.com/KhussanAminzhanov/jusan-git)|24 часа|
-|LinkedIn|[Ссылка](https://github.com/KhussanAminzhanov/jusan-git)|3 часа|
-|WhatsApp|[Ссылка](https://github.com/KhussanAminzhanov/jusan-git)|30 минут|
-|Telegram|[Ссылка](https://github.com/KhussanAminzhanov/jusan-git)|5 минут|
+Ниже найдите список ссылок для связки с автором.  
+| Платформа | Ссылка                                                   | Отвечу за |  
+|-----------|----------------------------------------------------------|-----------|
+| Почта     | [Ссылка](https://github.com/KhussanAminzhanov/jusan-git) | 24 часа   |  
+| LinkedIn  | [Ссылка](https://github.com/KhussanAminzhanov/jusan-git) | 3 часа    |  
+| WhatsApp  | [Ссылка](https://github.com/KhussanAminzhanov/jusan-git) | 30 минут  |  
+| Telegram  | [Ссылка](https://github.com/KhussanAminzhanov/jusan-git) | 5 минут   |
